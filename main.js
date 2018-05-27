@@ -14,7 +14,7 @@ function getQuote() {
 
 
 					$("#twit").on("click", function(){
-				      			$(this).attr("href", "https:twitter.com/intent/tweet?text=" + data.quoteText + " - " + data.quoteAuthor);
+				      			$(this).attr("href", "https://twitter.com/intent/tweet?text=" + data.quoteText + " - " + data.quoteAuthor);
 					});
 	});
 
