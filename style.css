@@ -1,64 +1,64 @@
 body {
-	font-family: 'Roboto', sans-serif;
-  background: url(bgimg.jpg) no-repeat center center fixed; /* do not use background-image*/
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+				font-family: 'Roboto', sans-serif;
+			  background: url(bgimg.jpg) no-repeat center center fixed; /* do not use background-image*/
+			  -webkit-background-size: cover;
+			  -moz-background-size: cover;
+			  -o-background-size: cover;
+			  background-size: cover;
 }
 
 .header {
-					color: #14087a;
-					font-family: 'Roboto', sans-serif;
-					font-size: 50px;
+				color: #14087a;
+				font-family: 'Roboto', sans-serif;
+				font-size: 50px;
 }
 
 .quote-section {
-					padding: 40px;
+				padding: 40px;
 }
 
 .new-quote-button {
-					padding: 30px;
+				padding: 30px;
 }
 
 .quote {
-					color: white;
-					font-family: 'Roboto', sans-serif;
-					font-size: 30px;
+				color: white;
+				font-family: 'Roboto', sans-serif;
+				font-size: 30px;
 }
 
 .quote-author {
-					color: white;
-					font-family: 'Roboto', sans-serif;
-					font-size: 20px;
-					font-style: italic;	
+				color: white;
+				font-family: 'Roboto', sans-serif;
+				font-size: 20px;
+				font-style: italic;	
 }
 
 .quotes-box {
-					background-color: #14087A;
-					width: 43%;
-					margin: 0 auto;
-					border-color: white;
-					border-style: solid;
-					border-radius: 5px;
-					height: auto;
-					padding: 5px 5px 45px 5px;
+				background-color: #14087A;
+				width: 43%;
+				margin: 0 auto;
+				border-color: white;
+				border-style: solid;
+				border-radius: 5px;
+				height: auto;
+				padding: 5px 5px 45px 5px;
 }
 
 #twit {
-					margin-top: 5px;
-					font-family: 'Roboto', sans-serif;
-					font-size: 18px;
+				margin-top: 5px;
+				font-family: 'Roboto', sans-serif;
+				font-size: 18px;
 }
 
 #newQuote {
-					font-size: 18px;
-					font-family: 'Roboto', sans-serif;
+				font-size: 18px;
+				font-family: 'Roboto', sans-serif;
 }
 
 .fa-twitter-square {
-					padding-right: 5px;
-    			font-size: 20px !important;
+				padding-right: 5px;
+    		font-size: 20px !important;
 }
 
 
@@ -74,22 +74,22 @@ background-size: cover;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-body { background: url(tallbgimg) 50% 80% no-repeat fixed !important
+body { background: url(tallbgimg.jpg) 50% 80% no-repeat fixed !important
 -webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
 background-size: cover;
 }
 .quotes-box {
-					width: 96%;
+				width: 96%;
 }
 
 .quote-section {
-					padding: 10px;
+				padding: 10px;
 }
 
 .header {
-					font-size: 25px;
+				font-size: 25px;
 }
 
 }
@@ -103,15 +103,15 @@ background-size: cover;
 }
 
 .quotes-box {
-					width: 96%;
+				width: 96%;
 }
 
 .quote-section {
-					padding: 10px;
+				padding: 10px;
 }
 
 .header {
-					font-size: 25px;
+				font-size: 25px;
 }
 
 }
