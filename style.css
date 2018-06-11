@@ -74,7 +74,7 @@ background-size: cover;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-body { background: url(tallbgimg.jpg) 50% 80% no-repeat fixed !important
+body { background: url(tallbgimg.jpg) 50% 80% no-repeat fixed !important;
 -webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
